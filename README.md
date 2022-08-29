@@ -4,7 +4,7 @@
 
 The simple implementation of snake in AppleSoft BASIC inspired by the YouTube Channel -> [The Coding Train](https://www.youtube.com/c/TheCodingTrain).
 
-
+![plot](https://github.com/1chooo/basic-snake/blob/main/img/snake.png)
 
 ---
 Run the code: 
